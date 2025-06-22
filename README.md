@@ -18,15 +18,10 @@ The goal of this website is to create a central hub where visitors, recruiters, 
 ## 🛠 Tech Stack
 - **Frontend**: HTML5, CSS3, JavaScript, React.js (or whatever you used)
 - **Backend**: (if applicable, like Node.js, Express, etc.)
-- **Hosting**: (like Vercel, Netlify, GitHub Pages, etc.)
-
-## 🔗 Live Demo
-[Click here to view the live site](https://your-portfolio-link.com)
+- **Hosting**: GitHub Pages
 
 ## 📧 Contact
 - **Email**: aparnakl2006@gmail.com
 
 
-## 📝 License
-This project is open-source and available under the [MIT License](LICENSE).
 
